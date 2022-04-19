@@ -428,6 +428,6 @@ dan dibawah ini adalah kode nya :
 ```
 ### Dan dibawah ini adalah hasil dari Kode Bootstrap di atas :
 
+![HASIL](https://user-images.githubusercontent.com/101393632/163915698-a2419a66-d3e6-40a7-8bb1-eecd4f3f98ba.jpg)
 
-============ S E L E S A I!!
-[Uploading HASIL.jpg…]()
+============ S E L E S A I ==========
